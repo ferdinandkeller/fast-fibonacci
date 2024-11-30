@@ -1,0 +1,8 @@
+[project]
+name = "fast-fibonacci"
+version = "0.1.0"
+authors = [{ name = "Ferdinand Keller", email = "ferdinand.keller@proton.me" }]
+description = "Really fast Fibonacci calculator."
+readme = "README.md"
+requires-python = ">=3.13,<3.14"
+dependencies = ["gmpy2>=2.2.1", "loguru>=0.7.2"]
